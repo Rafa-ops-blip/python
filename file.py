@@ -5,3 +5,8 @@ def student_name():
 print(student_name())
 s = student_name()
 print(s)
+
+def first_name():
+  first = "Rafatullah"
+  return first
+
